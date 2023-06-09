@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net.se/vfb-s6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-s6.dir/vfb-s6.cpp.o -c /home/denis/vfb-net.se/vfb-s6/vfb-s6.cpp",
+  "file": "/home/denis/vfb-net.se/vfb-s6/vfb-s6.cpp"
+}
+]
